@@ -35,7 +35,7 @@
 
 
 4.10
-characters = ['steve','michael','franklin','trevor','soap','ghost','price','frost']
+#characters = ['steve','michael','franklin','trevor','soap','ghost','price','frost']
 #print(characters[0:3])
 #print(characters[3:6])
 #print(characters[5:9])
@@ -62,9 +62,9 @@ characters = ['steve','michael','franklin','trevor','soap','ghost','price','fros
 #print(My_friend)
 
 4.13
-buffet = ('cheeseandcrakkers','steakstripps','calamaristrips','cheesebites','prawns')
-print(buffet[0])
-print(buffet[1])
-print(buffet[2])
-print(buffet[3])
-print(buffet[4])
+#buffet = ('cheeseandcrakkers','steakstripps','calamaristrips','cheesebites','prawns')
+#print(buffet[0])
+#print(buffet[1])
+#print(buffet[2])
+#print(buffet[3])
+#print(buffet[4])
