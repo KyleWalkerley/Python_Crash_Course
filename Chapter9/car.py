@@ -22,11 +22,11 @@ class Car:
         self.odometer_reading = mileage
 
 
-my_new_car = Car('audi', 'a4', 2019)
-his_new_car = Car('volkswagen','beetle','1950')
+#my_new_car = Car('audi', 'a4', 2019)
+#his_new_car = Car('volkswagen','beetle','1950')
 #my_new_car.odometer_reading = 23
-print(my_new_car.get_descriptive_name())
-print(his_new_car.get_descriptive_name())
+#print(my_new_car.get_descriptive_name())
+#print(his_new_car.get_descriptive_name())
 #my_new_car.read_odometer()
-my_new_car.update_odometer(23)
-my_new_car.read_odometer()
+#y_new_car.update_odometer(23)
+#my_new_car.read_odometer()
